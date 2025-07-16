@@ -20,7 +20,7 @@ Backend: Flask, TensorFlow/Keras
 Frontend: HTML, CSS (Bootstrap), JavaScript
 Computer Vision: OpenCV (Haarcascade for face detection)
 Model: Pre-trained deep learning model for mask detection
-
+'''
 Project Structure
 📁 Face-Mask-Detection
 │── 📁 static/                     # Static assets (CSS, JS, images)
@@ -30,7 +30,7 @@ Project Structure
 │── app.py                           # Flask application
 │── requirements.txt                 # Required Python libraries
 │── README.md                        # Project documentation
-
+'''
 Installation & Setup
 
 1️⃣ Clone the repository:
